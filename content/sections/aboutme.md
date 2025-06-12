@@ -4,4 +4,4 @@ I obtained my [Ph.D. degree in Accounting](https://youtu.be/IW3HetBQnaU) from th
 
 I am a Chartered Professional Accountant in Ontario, Canada, and a Licensed Certified Public Accountant in Illinois, U.S.A.
 
-__[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated June 2025)
+<!-- __[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated June 2025) -->

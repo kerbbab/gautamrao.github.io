@@ -1,0 +1,12 @@
+<p><a href="{{ "/" | relURL }}">Home</a></p>
+{{ range .Site.Menus.main }}
+<p><a href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
+{{ end }}
+<hr/>
+<div class="compact-sidebar">
+<p><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7479432" target="_blank">SSRN</a></p>
+<p><a href="https://scholar.google.ca/citations?hl=en&user=vsfGb9AAAAAJ" target="_blank">Google Scholar</a></p>
+<p><a href="https://orcid.org/0009-0004-2205-2220" target="_blank">ORCID</a></p>
+<!-- <p><a href="https://x.com/yangl1996" target="_blank">Twitter</a></p> -->
+<p><a href="{{ "/pdf/Rao_CV_latest.pdf" | relURL}}" target="_blank">CV</a></p>
+</div>

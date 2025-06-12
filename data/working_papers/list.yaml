@@ -6,7 +6,7 @@ works:
   # book: "Revised and Resubmitted, Econometrica"
   note: "Current Version: April 2025"
   links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
+    - url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179481"
       text: "SSRN"
   abstract: >
       This paper studies shareholder voting with third-party advice. Specifically, I investigate whether shareholders make more informed voting decisions after having received a proxy advisory firm's report. I find that the proxy advisor enters the market if its report can encourage supplemental research. This finding challenges the current orthodoxy, which is that shareholders use the proxy advisor's report as a substitute for independent research. Taking the proxy advisor's strategic entry decision leads to the opposite conclusion: the proxy advisor's report is complementary to independent research.
@@ -16,5 +16,8 @@ works:
   coauthors: "Jack Stecher"
   # book: "Revise and Resubmit, Econometrica"
   note: "Current Version: April 2025"
+  links:
+    - url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5178085"
+      text: "SSRN"
   abstract: >
       We contribute to the voluntary disclosure literature by investigating the consequences of disclosure volume. Focusing on a voting setting, we study whether a manager can manipulate shareholders by strategically choosing the number of unbiased signals to release publicly before a shareholders' meeting. This choice of volume affects voting because, in equilibrium, shareholders vote strategically, taking into consideration both their own information and what others must know in order for their votes to be decisive. Instead of biasing the released information, the manager takes advantage of how the shareholders' strategic voting incentives lead them to bias their own inferences.
