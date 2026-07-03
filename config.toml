@@ -6,6 +6,6 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD in Accounting, University of Alberta"
+    shortbio = "Assistant Professor of Accounting, Saint Mary's University"
     logo = "UofA_SOB_Headshots_010419_LR-143.jpg" 
     
