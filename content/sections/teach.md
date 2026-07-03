@@ -1,14 +1,14 @@
 __Fall 2026__:      
-ACCT 2242: Introductory Managerial Accounting
-Saint Mary's University
+ACCT 2242: Introductory Managerial Accounting    
+Saint Mary's University    
 
 __Winter 2024__:      
 ACCTG 456: Assurance on Financial Information     
-University of Alberta
+University of Alberta    
 
 __Fall 2021__:     
 ACCTG 432: Financial Statement Analysis      
-University of Alberta
+University of Alberta    
 
 
 

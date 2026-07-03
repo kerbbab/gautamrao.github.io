@@ -1,6 +1,6 @@
 I am an Assistant Professor in the Department of Accounting, in the Sobey School of Business at Saint Mary’s University at Halifax, Nova Scotia.
 
-I obtained my [Ph.D. degree in Accounting](https://youtu.be/IW3HetBQnaU) from the [Department of Accounting and Business Analytics](https://www.ualberta.ca/accounting-business-analytics/index.html) at the University of Alberta.
+I earned my [Ph.D. degree in Accounting](https://youtu.be/IW3HetBQnaU) from the [Department of Accounting and Business Analytics](https://www.ualberta.ca/accounting-business-analytics/index.html) at the University of Alberta.
 
 [My research](https://www.ualberta.ca/en/business/programs/phd/program-overview/phd-candidate-spotlights/business-phd-spotlight-ke-feng.html) focuses on corporate governance and shareholder voting, particularly proxy advisory firms as information intermediaries. I am interested in their influence on institutional investors’ information acquisition strategies, on managers’ proxy statement setting, and on how investors interpret proxy advisors’ reports.
 
